@@ -35,4 +35,4 @@
 
 # light
 
-
+![image](https://github.com/sudong-wang/lab2b-part1/blob/main/7bspa-at7xj.gif)
